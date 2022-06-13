@@ -1,1 +1,0 @@
-import{_ as r}from"./index-cbd6929f.js";import{y as e,o}from"./vue-72c29318.js";var a=r({},[["render",function(r,a){return o(),e("div")}]]);export{a as default};
